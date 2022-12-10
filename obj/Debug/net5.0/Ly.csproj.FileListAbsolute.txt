@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\새 폴더\bin\Debug\net5.0\Ly.exe
+C:\Users\Administrator\Desktop\새 폴더\bin\Debug\net5.0\Ly.deps.json
+C:\Users\Administrator\Desktop\새 폴더\bin\Debug\net5.0\Ly.runtimeconfig.json
+C:\Users\Administrator\Desktop\새 폴더\bin\Debug\net5.0\Ly.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\새 폴더\bin\Debug\net5.0\Ly.dll
+C:\Users\Administrator\Desktop\새 폴더\bin\Debug\net5.0\ref\Ly.dll
+C:\Users\Administrator\Desktop\새 폴더\bin\Debug\net5.0\Ly.pdb
+C:\Users\Administrator\Desktop\새 폴더\obj\Debug\net5.0\Ly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\새 폴더\obj\Debug\net5.0\Ly.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\새 폴더\obj\Debug\net5.0\Ly.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\새 폴더\obj\Debug\net5.0\Ly.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\새 폴더\obj\Debug\net5.0\Ly.dll
+C:\Users\Administrator\Desktop\새 폴더\obj\Debug\net5.0\ref\Ly.dll
+C:\Users\Administrator\Desktop\새 폴더\obj\Debug\net5.0\Ly.pdb
+C:\Users\Administrator\Desktop\새 폴더\obj\Debug\net5.0\Ly.genruntimeconfig.cache

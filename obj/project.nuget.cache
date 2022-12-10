@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qgm6d5u6TlzLHzsVuXtbvX8WDAuql9TDuHuSKk+WOy3Dl7fGGEe22167XkcGFoQoSZumb5WBHIIqMifmNIzVug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\새 폴더\\Ly.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
