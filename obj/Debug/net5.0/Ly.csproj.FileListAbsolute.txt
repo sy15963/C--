@@ -13,3 +13,4 @@ C:\Users\Administrator\Desktop\새 폴더\obj\Debug\net5.0\Ly.dll
 C:\Users\Administrator\Desktop\새 폴더\obj\Debug\net5.0\ref\Ly.dll
 C:\Users\Administrator\Desktop\새 폴더\obj\Debug\net5.0\Ly.pdb
 C:\Users\Administrator\Desktop\새 폴더\obj\Debug\net5.0\Ly.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\새 폴더\obj\Debug\net5.0\Ly.csproj.AssemblyReference.cache
